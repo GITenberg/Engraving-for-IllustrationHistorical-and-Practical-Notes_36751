@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38460'
     url: http://www.gutenberg.org/2009/agents/38460
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36751#Engraving-for-IllustrationHistorical-and-Practical-Notes
 gutenberg_issued: '2011-07-17'
 gutenberg_type: Text
 identifiers:
